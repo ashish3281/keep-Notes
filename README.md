@@ -3,5 +3,7 @@
 </p>
 
 <p>To run this project, you don’t need to have any kind of local server but yet a browser. We recommend you to use modern browsers like Google Chrome and Mozilla Firefox. To run this system, first, open the project in your browser by clicking the index.html file. For the project demo, you can look at the photo below:
-  </p>
-![Screenshot (345)](https://user-images.githubusercontent.com/92047366/190887385-e09cef35-87f2-4617-90aa-1be14cac6436.png)
+  
+![Screenshot (345)](https://user-images.githubusercontent.com/92047366/190887408-26d6decb-204a-4661-80c5-a2e084e13e00.png)
+
+</p>
